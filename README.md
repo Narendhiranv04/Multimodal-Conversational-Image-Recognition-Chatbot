@@ -1,4 +1,4 @@
-**Multimodal Conversational Image Recognition Chatbot**
+#**Multimodal Conversational Image Recognition Chatbot** [PixelBot]
 
 This project was developed as part of Smart India Hackathon-24, showcasing a multimodal chatbot capable of handling complex image-based queries. The chatbot integrates cutting-edge technologies to provide image segmentation, inpainting, and generation capabilities, combined with conversational intelligence to ensure a seamless and engaging user experience.
 
@@ -8,7 +8,7 @@ The system utilizes LLaVA, SAM2, and GLIGEN to process images for segmentation, 
 
 
 
-**Features**
+##**Features**
 
 1. Multimodal interaction combining text and image understanding.
 2. Image segmentation, inpainting, and generation using state-of-the-art models.
@@ -16,7 +16,7 @@ The system utilizes LLaVA, SAM2, and GLIGEN to process images for segmentation, 
 4. Keyword extraction with RAKE and YAKE for enhanced response accuracy.
 5. Designed to handle complex queries, delivering precise and engaging responses.
 
-**Components Implemented**
+##**Components Implemented**
 
 - **LLaVA:** A Large Language and Vision Assistant for multimodal understanding.
 
@@ -28,4 +28,6 @@ The system utilizes LLaVA, SAM2, and GLIGEN to process images for segmentation, 
     
 - **LSTM Networks:** Used for managing contextual memory in conversations.
 
+##**Submission**
 
+This work was in preparation for Smart India Hackathon, India.
