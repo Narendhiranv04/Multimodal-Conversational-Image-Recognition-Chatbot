@@ -4,7 +4,7 @@ This project was developed as part of Smart India Hackathon-24, showcasing a mul
 
 The system utilizes LLaVA, SAM2, and GLIGEN to process images for segmentation, inpainting, and generation tasks, while LSTM networks enhance the chatbot’s contextual understanding. Advanced keyword extraction techniques using RAKE and YAKE further refine conversational responses, making the chatbot reliable and accurate in addressing user queries.
 
-![Uploading Screenshot from 2024-12-05 00-26-07.png…](Working UI of the integrated model on local host)
+![Uploading Screenshot from 2024-12-05 00-26-07.png…]()
 
 **Features**
 
