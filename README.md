@@ -36,3 +36,5 @@ The system utilizes LLaVA, SAM2, and GLIGEN to process images for segmentation, 
 ## **Submission**
 
 This work was in preparation for Smart India Hackathon, India.
+
+[Presentation](https://drive.google.com/file/d/1nJYLOJ9sEMy4yXVtOmFo_AQVsnAFkvS1/view?usp=sharing)
